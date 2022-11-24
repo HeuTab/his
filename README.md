@@ -1,2 +1,5 @@
-# his
-A hospital management system
+# his东软云医院系统
+## ❓简介
+
+本系统为东软实训期间所作系统，该系统完成了一个医院的基本功能，该系统基于springboot+vue实现，可满足一些大学的课程设计要求，希望大家给个star
+
